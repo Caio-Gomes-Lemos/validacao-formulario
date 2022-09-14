@@ -1,0 +1,45 @@
+*{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+body{
+    background:url(https://egestorab.saude.gov.br/resource/img/fundo_login.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+
+}
+#form{
+    margin: auto; width: 220px;
+    
+    
+    background-color: rgba(252, 252, 252, 0.6);
+    border-radius: 10%;
+    
+    
+}
+#form button{
+    background-color: rgba(255, 255, 255, 0.6);
+    font-family: 'Times New Roman', Times, serif;
+}
+#form input{
+    background-color: rgba(255, 255, 255, 0.6);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.container {
+    background-color: transparent;
+    border-radius: 10px;
+    padding: 30px;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 50%;
+    height: 700px;
+    
+}
